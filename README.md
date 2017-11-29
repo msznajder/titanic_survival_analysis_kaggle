@@ -1,2 +1,2 @@
-# titanic_survival_analysis
-Titanic passengers survival canonical analysis.
+# titanic_survival_analysis_kaggle
+Titanic passengers survival Kaggle competition.
